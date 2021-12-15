@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-express-freecodecamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "10-fs-sync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiamnasr/NodeJs-Express-freecodecamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiamnasr/NodeJs-Express-freecodecamp/issues"
+  },
+  "homepage": "https://github.com/wiamnasr/NodeJs-Express-freecodecamp#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "lodash": "^4.17.21"
+  }
+}
